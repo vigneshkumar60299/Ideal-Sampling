@@ -82,7 +82,8 @@ plt.show()
 
 # Results
 
-<img width="1189" height="989" alt="image" src="https://github.com/user-attachments/assets/b0de8356-cffb-4bb6-b85f-506ba38d64f4" />
+<img width="1002" height="682" alt="image" src="https://github.com/user-attachments/assets/ecc050e9-a3ed-4885-8ea6-04b4fa412c66" />
+
 
 
 
