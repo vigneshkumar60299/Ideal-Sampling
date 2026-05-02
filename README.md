@@ -76,13 +76,13 @@ plt.legend()
 plt.show()
 ```
 # Output Waveform
-```
+
 <img width="1189" height="989" alt="image" src="https://github.com/user-attachments/assets/8715a9bb-e22e-4a9e-b85b-6c11071327e9" />
 
-```
+
 # Results
-```
+
 <img width="1189" height="989" alt="image" src="https://github.com/user-attachments/assets/b0de8356-cffb-4bb6-b85f-506ba38d64f4" />
 
-```
+
 
